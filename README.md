@@ -14,8 +14,7 @@
 Pop me an email at <a href="mailto:soumyaranjanachary2002@gmail.com">soumyaranjanachary2002@gmail.com</a>
 or give me a shout on social media. <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyaranjanachary)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acharysoumya24) 
-[![Instagram](https://img.shields.io/badge/In-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acharysoumya24) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acharysoumya24)  
 
 
 ## 💻 My Tech Stack:
