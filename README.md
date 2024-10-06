@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/acharysoumya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acharysoumya24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumyaranjanachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaranjanachary" height="30" width="40" /></a>
-<a href="https://fb.com/unk5juzzqkwahk5r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unk5juzzqkwahk5r" height="30" width="40" /></a>
+<a href="[https://fb.com/unk5juzzqkwahk5r](https://www.facebook.com/profile.php?id=100087624931629&mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unk5juzzqkwahk5r" height="30" width="40" /></a>
 <a href="https://instagram.com/7_sooo_myaaa_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7_sooo_myaaa_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/acharysoumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="acharysoumya" height="30" width="40" /></a>
 </p>
