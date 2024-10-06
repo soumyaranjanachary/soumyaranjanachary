@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Achary</h1>
-<h3 align="center">A highly skilled and motivated Machine Learning Engineer with a solid foundation in software development and a passion for artificial intelligence. I specialize in building and deploying machine learning models that solve real-world problems, with expertise in Python, TensorFlow, Keras, and scikit-learn. My projects range from sentiment analysis using Transformer-based models to real-time license plate detection with YOLOv8 and OCR. With a strong background in data structures, algorithms, and database management, I thrive in applying deep learning, NLP, and computer vision techniques to create scalable, efficient solutions. Always eager to collaborate on challenging projects and explore new advancements in AI.</h3>
+<h3 align="center">I am a passionate Machine Learning Engineer with a strong background in artificial intelligence and software development. I enjoy working on challenging problems, exploring new technologies, and creating efficient solutions. I'm always open to learning and collaborating on exciting projects in AI and machine learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
